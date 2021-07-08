@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AshleyBryant
+- 👀 I’m interested in .NET and C#
+- 🌱 I’m currently learning Rosyln Analysers and Code Generators
+- 💞️ I’m looking to collaborate on something cool :)
+- 📫 How to reach me ...
